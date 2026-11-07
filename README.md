@@ -4,6 +4,7 @@
 ### 1. Identitas Mahasiswa & Tema
 * **Nama:** Akmal Adhi Nugroho
 * **NIM:** H1D025021
+* **Shift KRS:** D
 * **Digit Terakhir NIM:** 1
 * **Tema Sistem:** Game (Plants vs Zombies Turn-Based)
 
@@ -37,5 +38,9 @@ javac *.java
 # 3. Jalankan program utama
 java Main
 
+# 4. Screenshot Luaran Program
+
 ![Screenshot Output Terminal 1](asset/ss_1.png)
+
 ![Screenshot Output Terminal 2](asset/ss_2.png)
+
