@@ -40,7 +40,7 @@ java Main
 
 # 4. Screenshot Luaran Program
 
-![Screenshot Output Terminal 1](asset/ss_1.png)
+![Screenshot Output Terminal 1] (asset/ss_1.png)
 
-![Screenshot Output Terminal 2](asset/ss_2.png)
+![Screenshot Output Terminal 2] (asset/ss_2.png)
 
